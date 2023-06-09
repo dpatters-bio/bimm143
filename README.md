@@ -16,3 +16,4 @@ Content
 - Class 18: 
 - Class 19: [Pertussis resurgence mini-project]
 - Class 20: [Portfolio building and discussion of bioinformatics in industry]
+
