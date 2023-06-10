@@ -1,4 +1,5 @@
-This page contains all of my classwork from BIMM143 bioinformatics the main homepage is [here](https://marcos-diazg.github.io/BIMM143_SP23/)
+This page contains all of my classwork and miniprojects  from BIMM143 - bioinformatics. We mostly used RStudio to explore datasets that emphasize modern developments in genomics and proteomics.  The main homepage for BIMM143 is located [here](https://marcos-diazg.github.io/BIMM143_SP23/)
+
 Content:
 - Class 5: [Data exploration and visualization in R](https://github.com/dpatters-bio/bimm143/blob/main/Class05.html)
 - Class 6: [Why, when and how of writing your own R functions](https://github.com/dpatters-bio/bimm143/blob/main/Class-06-Lab.pdf)
