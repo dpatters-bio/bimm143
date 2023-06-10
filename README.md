@@ -14,5 +14,5 @@ Content:
 - Class 16: [Analyzing sequencing data in the cloud mini-project](https://github.com/dpatters-bio/bimm143/blob/main/Class-16.pdf)
 - Class 17: [Vaccination rate mini-project](https://github.com/dpatters-bio/bimm143/blob/main/Class17.pdf)
 - Class 19: [Pertussis resurgence mini-project](https://github.com/dpatters-bio/bimm143/blob/main/Class%2019.md)
-- Class 20: [Portfolio building and discussion of bioinformatics in industry]
+- Class 20: Portfolio building and discussion of bioinformatics in industry
 
